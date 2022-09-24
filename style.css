@@ -1,0 +1,158 @@
+.header {
+    text-align: center;
+    background-image: url(images/donation1.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    color: white;
+    line-height: 1.5;
+
+}
+
+button {
+    background-color: tomato;
+    font-weight: 700;
+    padding: 7px;
+    border-radius: 5px;
+}
+
+h2 {
+    word-spacing: 3cm;
+    text-align: center;
+    margin: 2cm;
+}
+
+span {
+    border: 5px solid tomato;
+
+}
+
+.donation {
+    text-align: center;
+}
+
+.taka {
+    display: flex;
+}
+
+.taka1 {
+    border: 3px solid whitesmoke;
+    margin: 1.3cm;
+    padding: 1cm;
+    border-radius: 5px;
+    font-size: 30px;
+    background-color: whitesmoke;
+    font-weight: 700;
+
+}
+
+#taka2 {
+    border: 3px solid deeppink;
+    margin: 1.3cm;
+    padding: 1cm;
+    border-radius: 5px;
+    color: deeppink;
+    font-size: 30px;
+    font-weight: 700;
+}
+
+input {
+    text-align: center;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+#other-amount {
+    text-align: center;
+}
+
+#donation-plan {
+    text-align: center;
+    margin: 2cm;
+}
+
+#donation-plan1 {
+    display: flex;
+}
+
+#food {
+    background-color: lightblue;
+    margin: 10px;
+    padding: 20px;
+    text-align: left;
+    background-image: url(icons/food.png);
+    background-repeat: no-repeat;
+    background-position: 20px 70px
+}
+
+#shelter {
+    background-color: lightpink;
+    margin: 10px;
+    padding: 20px;
+    text-align: left;
+    background-image: url(icons/shelter.png);
+    background-repeat: no-repeat;
+    background-position: 20px 70px
+}
+
+#treatment {
+    background-color: burlywood;
+    margin: 10px;
+    padding: 20px;
+    text-align: left;
+    background-image: url(icons/Frame-1.png);
+    background-repeat: no-repeat;
+    background-position: 20px 70px
+}
+
+#donation2 {
+    display: flex;
+    margin: 1cm;
+}
+
+#depend-on {
+    text-align: left;
+    margin: 2cm;
+    padding: 10px;
+}
+
+#survival {
+    display: flex;
+}
+
+#survival1 {
+    text-align: left;
+    margin: 1cm;
+}
+
+#survival2 {
+    text-align: left;
+    margin: 1cm;
+}
+
+#getting-updates {
+    text-align: center;
+    font-size: 22px;
+}
+
+#subscription {
+    text-align: center;
+    border: 20px solid lightsalmon;
+    margin-top: 2cm;
+    margin-left: 7cm;
+    margin-bottom: 2cm;
+    margin-right: 7cm;
+    background-color: burlywood;
+}
+
+footer {
+    text-align: center;
+    color: crimson;
+    margin: 0;
+    background-color: black;
+
+}
+
+#humble {
+    line: indent 5px;
+}
